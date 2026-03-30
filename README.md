@@ -1,22 +1,6 @@
 <a name="readme-top"></a>
 
 <!-- -------------------------------------------------------------------------- -->
-<!-- HEADING STUFF  -->
-<div align="center">
-  <h2>The Way Of Navi</h2>
-  <h4>A Next.js App to Help Prepare for AWS Certification Examinations</h4>
-  <h3>
-    <a href='https://the-way-of-navi.vercel.app/' target='_blank'>
-      <h5>Live Demo ↗</h5>
-    </a>
-  </h3>
-</div>
-
-<!-- -------------------------------------------------------------------------- -->
-
-<a name="readme-top"></a>
-
-<!-- -------------------------------------------------------------------------- -->
 
 <!-- HEADING STUFF  -->
 
